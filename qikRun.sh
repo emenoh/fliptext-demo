@@ -10,7 +10,8 @@ echo "### Configuration is :"
 echo "   ~  Connect to  Mongo server : " $MONGO_URL
 echo "### ~   ~   ~    "
 
-meteor remove xolvio:cucumber
+# meteor remove xolvio:cucumber
+$ meteor remove mike:mocha
 
 meteor
 
