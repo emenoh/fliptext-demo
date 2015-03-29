@@ -10,8 +10,7 @@ export ALIGNMENT=4
 
 export BUILD_DIRECTORY=../tmp
 
+export CUCUMBER=1
+export MOCHA=1
 # export VELOCITY_DEBUG=1
-
-
-
 

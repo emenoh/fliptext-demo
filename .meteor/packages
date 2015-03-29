@@ -9,4 +9,6 @@ meteor-platform
 insecure
 jquery
 warehouseman:fliptext
-
+mike:mocha
+xolvio:webdriver
+xolvio:cucumber
