@@ -75,6 +75,6 @@ echo "   ~                     Mocha : " ${MOCHA}
 echo "   ~                  Cucumber : " ${CUCUMBER}
 echo "### ~   ~   ~   ~   ~   ~   ~   ~   ~   ~    "
 #
-meteor
+meteor --settings=settings.json
 
 
