@@ -3,7 +3,7 @@
         "demo_mode": true
       , "comment" : "demo_mode is always ON, unless you set demo_mode to false."
     }
-  , "MONGO_SERVER": "mongotahr"
+  , "MONGO_SERVER": "localhost"
   , "MONGO_PORT": 27017
   , "MONGO_DB": "fliptext"
   , "MOCHA": "yes"
