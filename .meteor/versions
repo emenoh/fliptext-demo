@@ -50,12 +50,12 @@ ui@1.0.6
 underscore@1.0.3
 url@1.0.4
 velocity:core@0.4.5
-velocity:html-reporter@0.3.2
+velocity:html-reporter@0.4.1
 velocity:node-soft-mirror@0.3.1
 velocity:shim@0.1.0
 velocity:test-proxy@0.0.4
-warehouseman:fliptext@0.0.4
+warehouseman:fliptext@0.0.5
 webapp@1.2.0
 webapp-hashing@1.0.3
-xolvio:cucumber@0.3.1
-xolvio:webdriver@0.5.2
+xolvio:cucumber@0.5.3
+xolvio:webdriver@0.3.1
